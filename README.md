@@ -1,5 +1,8 @@
 # Esp32-Smart-Watch
 
+![111](https://user-images.githubusercontent.com/25906435/189542023-1603a028-cf37-4d41-806b-5cc71415823f.gif)
+
+
 Type - C VERSION
 
 ![Type - C](https://user-images.githubusercontent.com/25906435/187034068-0aeca3d4-d5c5-4e43-9fbd-cf7b8ad7db33.png)
