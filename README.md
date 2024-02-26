@@ -1,3 +1,8 @@
+# Sensor Breakout Board
+
+![PCB TOP](https://github.com/Zenomodiff/Esp32-Smart-Watch/assets/25906435/46469e2f-8d84-4c13-bc4b-415fb517d734)
+
+
 # Esp32-Smart-Watch
 
 ![111](https://user-images.githubusercontent.com/25906435/189542023-1603a028-cf37-4d41-806b-5cc71415823f.gif)
