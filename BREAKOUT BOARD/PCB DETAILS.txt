@@ -1,0 +1,13 @@
+Size:2015mil x 1445mil
+Signal Layers:2
+None Signal Layers:10
+Components:52
+Pads:190
+  Surface Pads:139
+  Plated Through-hole Pads:51
+  None Plated Through-hole Pads:0
+Holes:6
+Vias:20
+Nets:36/36
+Length of Tracks:36468.93mil
+Copper Areas:2
